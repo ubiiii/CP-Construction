@@ -1,0 +1,86 @@
+*{box-sizing: border-box;
+}
+input[type=text], input[type=date]
+{
+    width: 100%;
+    margin-right: 0%;
+    padding: 12px;
+    border: 1px solid rgb(168, 166, 166);
+    border-radius: 4px;
+    
+}
+textarea{
+    width:100%;
+    padding: 12px;
+    border: 1px solid rgb(168, 166, 166);
+    border-radius: 4px;
+    resize: horizontal;
+}
+
+.tit{
+    font-family: Arial;
+    font-size: large;
+    font-style: normal;
+    font-weight: bold;
+    color: rgb(234, 234, 234);
+    text-align: center;
+    text-decoration: underline;
+}
+label{
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+input[type=submit]:hover {
+background-color: #32a336;
+}
+.container{
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    margin-bottom: 100px;
+    border:  2px #d5d5e1;
+    appearance: Right;
+    color: #0e0e11;
+    font-size: 1rem;
+    font-weight: 500;
+    background: #e8e9eb94;
+}
+
+.align-left{
+    float: left;
+    width: 50%;
+
+}
+.align-right{
+    float: right;
+    width: 50%;
+}
+.align-container-left{
+    float: left;
+    width: 50%;
+    padding: 12px;
+
+}
+.align-container-right{
+    float: right;
+    width: 50%;
+    padding: 12px;
+}
+.col-90{ 
+    font-size:large;
+    float: left;
+    width: 100%;
+    margin-top: 6px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.nav-bar .btn {
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 0;
+}
+.save{
+    margin-left: 0px;
+}
