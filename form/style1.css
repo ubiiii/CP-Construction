@@ -1,0 +1,35 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "Rubik",sans-serif;
+}
+body{
+	background-color: #f5f8ff;
+}
+.conatainer{
+	background-color: #ffffff;
+	width: 60%;
+	min-width: 450px;
+	margin: 50px auto;
+	padding: 50px 20px;
+	border-radius: 7px;
+	box-shadow: 0 20px 35px rgba(0,0,0,0.05);
+}
+inut[type="file"]{
+	display: none;
+}
+label{
+	disaplay: block;
+	position: relative;
+	background-color: $025bee;
+	color: #ffffff;
+	font-size: 18px;
+	text-align: center;
+	width: 300px;
+	padding:18px;
+	margin: auto;
+	border-radius: 5px;
+	cursor: pointer;
+	
+}
