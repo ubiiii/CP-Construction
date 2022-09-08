@@ -1,11 +1,8 @@
-  =>  Template Name    : Builderz - Construction Company Website Template
+An online website for a construction company is to be developed to reach out to
+clients and interact with them.
+This website provides an overall outlook on the terms, policies and services of the
+construction company.
 
-  =>  Template Link    : https://htmlcodex.com/construction-company-website-template
-
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
-
-  =>  Template Author  : HTML Codex
-
-  =>  Author Website   : https://htmlcodex.com
-
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+Lack of communication between client and company can be easily overcome using online services.
+This business website gives an in detail look at the various sectors of projects and other
+essential information to the clients.
