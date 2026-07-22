@@ -1,0 +1,15 @@
+{
+  "name": "cp-construction",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Online website for a construction company to reach out to clients and showcase projects, services, and policies.",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "construction",
+    "website",
+    "business"
+  ],
+  "license": "UNLICENSED"
+}
